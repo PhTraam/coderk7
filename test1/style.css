@@ -1,0 +1,25 @@
+{
+    background-color: rgb(213, 213, 226);
+}
+
+ul{
+    color:blue;
+    background-color: brown;
+}
+.the3{
+    border:1px solid black;
+}
+#ah{
+    background-color: aquamarine;
+    color: rgb(114, 173, 168)
+    
+}
+.abc:active{
+    color: brown;
+}
+.abc:hover {
+    color: yellowgreen;
+    /* hover để khi lướt qua nó sẽ đổi màu, còn active là mình phải ấn nó mới đổi màu , 
+    ăn cái sau kh ăn cái trước */
+}
+
